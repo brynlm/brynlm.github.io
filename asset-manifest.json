@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/brynlm.github.io/static/css/main.434619b3.css",
+    "main.js": "/brynlm.github.io/static/js/main.0e7eafa4.js",
+    "static/js/453.195b869a.chunk.js": "/brynlm.github.io/static/js/453.195b869a.chunk.js",
+    "static/media/train_animation.gif": "/brynlm.github.io/static/media/train_animation.4d1a78b5545d6b7c4a20.gif",
+    "static/media/parkour1.PNG": "/brynlm.github.io/static/media/parkour1.d1467b876733ac052221.PNG",
+    "static/media/smashult_club.JPG": "/brynlm.github.io/static/media/smashult_club.275f96fbb70a9a52d110.JPG",
+    "static/media/parkour3.jpg": "/brynlm.github.io/static/media/parkour3.dab23bb8ef980f4c2730.jpg",
+    "static/media/profile_pic.png": "/brynlm.github.io/static/media/profile_pic.715fa2863290d64401d1.png",
+    "index.html": "/brynlm.github.io/index.html",
+    "main.434619b3.css.map": "/brynlm.github.io/static/css/main.434619b3.css.map",
+    "main.0e7eafa4.js.map": "/brynlm.github.io/static/js/main.0e7eafa4.js.map",
+    "453.195b869a.chunk.js.map": "/brynlm.github.io/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434619b3.css",
+    "static/js/main.0e7eafa4.js"
+  ]
+}
